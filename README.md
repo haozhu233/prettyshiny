@@ -1,0 +1,1 @@
+This package is inspired by yixuan's `prettydoc` and will include some resources and helper functions to make shiny apps look better. 
